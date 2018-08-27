@@ -1,5 +1,7 @@
 # Aoe_TemplateHints
 
+Add default value `dev/aoe_templatehints/enablePhpstormRemoteCall` = `1`
+
 [![Build Status](https://travis-ci.org/AOEpeople/Aoe_TemplateHints.svg?branch=master)](https://travis-ci.org/AOEpeople/Aoe_TemplateHints)
 
 http://fbrnc.net/blog/2012/10/magento-advanced-template-hints-20
